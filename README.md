@@ -1,0 +1,2 @@
+# kemenaker-amd-fullstack-2025
+FULLSTACK LARAVEL REPOSITORY FOR MAGANGHUB
